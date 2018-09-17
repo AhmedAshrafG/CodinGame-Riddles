@@ -1,9 +1,9 @@
 import java.util.*
 
 /**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
+ * Link: https://www.codingame.com/ide/puzzle/hidden-word
  **/
+
 fun main(args : Array<String>) {
     val input = Scanner(System.`in`)
     val n = input.nextInt()
